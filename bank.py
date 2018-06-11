@@ -6,7 +6,7 @@ bank = {
         'bal' : [ 10000,20000,30000 ],
         'password' : [ 'abcd','xyz','redhat' ]
 
-        }
+        } #This is database
 
 while input("\n\n\nPress A key to continue : ") :
 
