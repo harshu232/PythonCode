@@ -11,6 +11,6 @@ while n :
     n = n // 10 
     s = s + r ** c 
 if s == num :
-    print("Armstrong ")
+    print("this is an Armstrong number")
 else :
-    print("Not Armstrong")
+    print("this is Not an Armstrong number")
